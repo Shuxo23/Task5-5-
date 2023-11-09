@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'ALK Life';
+    src: url('../fonts/alk-life-webfont.eot'); 
+     
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    display: flex;
+    background-color: #d9d9d9;
+    justify-content: space-between;
+}
+
+.logo1{
+    display: flex;
+    padding-left: 100px;
+    
+    
+}
+.logo1-1 {
+    width: 100px;
+    height: 50px; 
+    padding: 15px;
+    ;
+}
+
+
+.navbar{
+    list-style-type: none;
+    display: flex;
+    justify-content:flex-end;
+    background-color: #d9d9d9;
+    
+}
+
+    
+li{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    
+     
+ }
+ .red {
+    color: red;
+    font-family: ALK LIFE;
+ }
+.books{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.books1{
+    margin: 90px;
+    
+}
+.womans{
+    display: flex;
+    margin: 125px;
+    
+}
+.womansin{
+margin: 30px;
+font-size: 32px;
+color: #717276;
+}
+.imagebox {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 90px;
+    
+}
+.imgbxt1{
+    color: #717276;
+    font-size: 24px;
+    margin: 20px;
+}
+.imgbxt2{
+    color: #000;
+    font-size: 24px;
+    margin: 20px;
+}
+
+.imgbxt3{
+    color: #000;
+    font-weight: bold;
+    margin: 20px;
+}
+.authors{
+    display: flex;
+    justify-content: space-around;
+    margin: 110px;
+}
+footer {
+    background-color: #d9d9d9;
+    display: flex;
+    
+}
+.nav-footer{
+    margin: 90px;
+}
+.social-media{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 950px;
+   
+}
+.social-media1 {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 950px;
+}
+
+
+
+
